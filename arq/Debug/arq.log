@@ -1,0 +1,3 @@
+﻿  Origem.cpp
+C:\Users\Ellen Beatriz Soares\source\repos\arq\arq\Origem.cpp(28,35): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  arq.vcxproj -> C:\Users\Ellen Beatriz Soares\source\repos\arq\Debug\arq.exe
